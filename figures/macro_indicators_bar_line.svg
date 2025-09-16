@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<style>text{font-family:"Arial";font-size:14px;fill:#222} .title{font-size:18px;font-weight:bold}</style>
+<rect x="60.0" y="60.0" width="510.0" height="310.0" fill="#f9f9f9" stroke="#ccc"/>
+<text class="title" x="315.0" y="84.0" text-anchor="middle">常住人口(万人)</text>
+<text x="76.0" y="108.0" text-anchor="start" fill="#666">柱状：指标值，折线：同比(%)</text>
+<line x1="84.0" y1="346.0" x2="546.0" y2="346.0" stroke="#444" stroke-width="1" />
+<line x1="84.0" y1="84.0" x2="84.0" y2="346.0" stroke="#444" stroke-width="1" />
+<line x1="546.0" y1="346.0" x2="546.0" y2="84.0" stroke="#d0021b" stroke-width="1" stroke-dasharray="4 2" />
+<rect x="92.4" y="102.78850477630743" width="25.2" height="243.21149522369257" fill="#4a90e2" />
+<text x="105.0" y="364.0" text-anchor="middle">2010</text>
+<rect x="134.4" y="98.0397652071542" width="25.2" height="247.9602347928458" fill="#4a90e2" />
+<text x="147.0" y="364.0" text-anchor="middle">2011</text>
+<rect x="176.4" y="95.04742570122892" width="25.2" height="250.95257429877108" fill="#4a90e2" />
+<text x="189.0" y="364.0" text-anchor="middle">2012</text>
+<rect x="218.4" y="92.80270747859566" width="25.2" height="253.19729252140434" fill="#4a90e2" />
+<text x="231.0" y="364.0" text-anchor="middle">2013</text>
+<rect x="260.4" y="90.0628717297806" width="25.2" height="255.9371282702194" fill="#4a90e2" />
+<text x="273.0" y="364.0" text-anchor="middle">2014</text>
+<rect x="302.4" y="89.01144237642819" width="25.2" height="256.9885576235718" fill="#4a90e2" />
+<text x="315.0" y="364.0" text-anchor="middle">2015</text>
+<rect x="344.4" y="86.96050610692606" width="25.2" height="259.03949389307394" fill="#4a90e2" />
+<text x="357.0" y="364.0" text-anchor="middle">2016</text>
+<rect x="386.4" y="85.66151799048276" width="25.2" height="260.33848200951724" fill="#4a90e2" />
+<text x="399.0" y="364.0" text-anchor="middle">2017</text>
+<rect x="428.4" y="84.96025602612161" width="25.2" height="261.0397439738784" fill="#4a90e2" />
+<text x="441.0" y="364.0" text-anchor="middle">2018</text>
+<rect x="470.4" y="84.25250375711016" width="25.2" height="261.74749624288984" fill="#4a90e2" />
+<text x="483.0" y="364.0" text-anchor="middle">2019</text>
+<rect x="512.4" y="84.0" width="25.2" height="262.0" fill="#4a90e2" />
+<text x="525.0" y="364.0" text-anchor="middle">2020</text>
+<circle cx="147.0" cy="84.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="147.0" y1="84.0" x2="189.0" y2="189.26781026859976" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="189.0" cy="189.26781026859976" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="189.0" y1="189.26781026859976" x2="231.0" y2="233.3525872073539" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="231.0" cy="233.3525872073539" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="231.0" y1="233.3525872073539" x2="273.0" y2="206.86863721494964" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="273.0" cy="206.86863721494964" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="273.0" y1="206.86863721494964" x2="315.0" y2="301.6266800546261" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="315.0" cy="301.6266800546261" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="315.0" y1="301.6266800546261" x2="357.0" y2="246.96239459960336" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="357.0" cy="246.96239459960336" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="357.0" y1="246.96239459960336" x2="399.0" y2="288.830800993974" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="399.0" cy="288.830800993974" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="399.0" y1="288.830800993974" x2="441.0" y2="321.59380646784007" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="441.0" cy="321.59380646784007" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="441.0" y1="321.59380646784007" x2="483.0" y2="321.3449832409557" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="483.0" cy="321.3449832409557" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="483.0" y1="321.3449832409557" x2="525.0" y2="346.0" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="525.0" cy="346.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<text x="84.0" y="76.0" text-anchor="start">最大值: 8477</text>
+<text x="552.0" y="96.0" text-anchor="start" fill="#d0021b">2.0%</text>
+<text x="552.0" y="220.00000000000003" text-anchor="start" fill="#d0021b">1.0%</text>
+<text x="552.0" y="346.0" text-anchor="start" fill="#d0021b">0.1%</text>
+<rect x="630.0" y="60.0" width="510.0" height="310.0" fill="#f9f9f9" stroke="#ccc"/>
+<text class="title" x="885.0" y="84.0" text-anchor="middle">GDP(亿元)</text>
+<text x="646.0" y="108.0" text-anchor="start" fill="#666">柱状：指标值，折线：同比(%)</text>
+<line x1="654.0" y1="346.0" x2="1116.0" y2="346.0" stroke="#444" stroke-width="1" />
+<line x1="654.0" y1="84.0" x2="654.0" y2="346.0" stroke="#444" stroke-width="1" />
+<line x1="1116.0" y1="346.0" x2="1116.0" y2="84.0" stroke="#d0021b" stroke-width="1" stroke-dasharray="4 2" />
+<rect x="662.4" y="223.73814937368087" width="25.2" height="122.26185062631914" fill="#4a90e2" />
+<text x="675.0" y="364.0" text-anchor="middle">2010</text>
+<rect x="704.4" y="210.24043884287468" width="25.2" height="135.75956115712532" fill="#4a90e2" />
+<text x="717.0" y="364.0" text-anchor="middle">2011</text>
+<rect x="746.4" y="196.3327551265879" width="25.2" height="149.6672448734121" fill="#4a90e2" />
+<text x="759.0" y="364.0" text-anchor="middle">2012</text>
+<rect x="788.4" y="181.79768864984385" width="25.2" height="164.20231135015615" fill="#4a90e2" />
+<text x="801.0" y="364.0" text-anchor="middle">2013</text>
+<rect x="830.4" y="167.67797224982183" width="25.2" height="178.32202775017817" fill="#4a90e2" />
+<text x="843.0" y="364.0" text-anchor="middle">2014</text>
+<rect x="872.4" y="152.3373765610497" width="25.2" height="193.6626234389503" fill="#4a90e2" />
+<text x="885.0" y="364.0" text-anchor="middle">2015</text>
+<rect x="914.4" y="137.22976916568774" width="25.2" height="208.77023083431226" fill="#4a90e2" />
+<text x="927.0" y="364.0" text-anchor="middle">2016</text>
+<rect x="956.4" y="122.20255564633487" width="25.2" height="223.79744435366513" fill="#4a90e2" />
+<text x="969.0" y="364.0" text-anchor="middle">2017</text>
+<rect x="998.4" y="107.2077932047219" width="25.2" height="238.7922067952781" fill="#4a90e2" />
+<text x="1011.0" y="364.0" text-anchor="middle">2018</text>
+<rect x="1040.4" y="93.23844676985078" width="25.2" height="252.76155323014922" fill="#4a90e2" />
+<text x="1053.0" y="364.0" text-anchor="middle">2019</text>
+<rect x="1082.4" y="84.0" width="25.2" height="262.0" fill="#4a90e2" />
+<text x="1095.0" y="364.0" text-anchor="middle">2020</text>
+<circle cx="717.0" cy="84.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="717.0" y1="84.0" x2="759.0" y2="112.22762762387032" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="759.0" cy="112.22762762387032" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="759.0" y1="112.22762762387032" x2="801.0" y2="131.12857258246086" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="801.0" cy="131.12857258246086" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="801.0" y1="131.12857258246086" x2="843.0" y2="170.6011060980318" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="843.0" cy="170.6011060980318" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="843.0" y1="170.6011060980318" x2="885.0" y2="170.4672450405822" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="885.0" cy="170.4672450405822" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="885.0" y1="170.4672450405822" x2="927.0" y2="198.91139983082832" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="927.0" cy="198.91139983082832" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="927.0" y1="198.91139983082832" x2="969.0" y2="220.3051281147942" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="969.0" cy="220.3051281147942" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="969.0" y1="220.3051281147942" x2="1011.0" y2="237.96640006035585" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="1011.0" cy="237.96640006035585" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="1011.0" y1="237.96640006035585" x2="1053.0" y2="268.1273878344552" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="1053.0" cy="268.1273878344552" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="1053.0" y1="268.1273878344552" x2="1095.0" y2="346.0" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="1095.0" cy="346.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<text x="654.0" y="76.0" text-anchor="start">最大值: 88683</text>
+<text x="1122.0" y="96.0" text-anchor="start" fill="#d0021b">11.0%</text>
+<text x="1122.0" y="219.99999999999997" text-anchor="start" fill="#d0021b">7.3%</text>
+<text x="1122.0" y="346.0" text-anchor="start" fill="#d0021b">3.7%</text>
+<rect x="60.0" y="430.0" width="510.0" height="310.0" fill="#f9f9f9" stroke="#ccc"/>
+<text class="title" x="315.0" y="454.0" text-anchor="middle">能源消费量(万tce)</text>
+<text x="76.0" y="478.0" text-anchor="start" fill="#666">柱状：指标值，折线：同比(%)</text>
+<line x1="84.0" y1="716.0" x2="546.0" y2="716.0" stroke="#444" stroke-width="1" />
+<line x1="84.0" y1="454.0" x2="84.0" y2="716.0" stroke="#444" stroke-width="1" />
+<line x1="546.0" y1="716.0" x2="546.0" y2="454.0" stroke="#d0021b" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="84.0" y1="677.2338644907419" x2="546.0" y2="677.2338644907419" stroke="#d0021b" stroke-width="1" stroke-dasharray="2 2" opacity="0.6" />
+<rect x="92.4" y="524.6323993355226" width="25.2" height="191.36760066447746" fill="#4a90e2" />
+<text x="105.0" y="734.0" text-anchor="middle">2010</text>
+<rect x="134.4" y="497.6360069293655" width="25.2" height="218.3639930706345" fill="#4a90e2" />
+<text x="147.0" y="734.0" text-anchor="middle">2011</text>
+<rect x="176.4" y="488.3747135654319" width="25.2" height="227.62528643456815" fill="#4a90e2" />
+<text x="189.0" y="734.0" text-anchor="middle">2012</text>
+<rect x="218.4" y="486.71717988529394" width="25.2" height="229.28282011470603" fill="#4a90e2" />
+<text x="231.0" y="734.0" text-anchor="middle">2013</text>
+<rect x="260.4" y="486.982196043783" width="25.2" height="229.01780395621702" fill="#4a90e2" />
+<text x="273.0" y="734.0" text-anchor="middle">2014</text>
+<rect x="302.4" y="479.9654319205092" width="25.2" height="236.03456807949078" fill="#4a90e2" />
+<text x="315.0" y="734.0" text-anchor="middle">2015</text>
+<rect x="344.4" y="472.5318885174087" width="25.2" height="243.4681114825913" fill="#4a90e2" />
+<text x="357.0" y="734.0" text-anchor="middle">2016</text>
+<rect x="386.4" y="466.66297699506043" width="25.2" height="249.33702300493957" fill="#4a90e2" />
+<text x="399.0" y="734.0" text-anchor="middle">2017</text>
+<rect x="428.4" y="460.9458441233819" width="25.2" height="255.05415587661807" fill="#4a90e2" />
+<text x="441.0" y="734.0" text-anchor="middle">2018</text>
+<rect x="470.4" y="454.0" width="25.2" height="262.0" fill="#4a90e2" />
+<text x="483.0" y="734.0" text-anchor="middle">2019</text>
+<rect x="512.4" y="460.418463024952" width="25.2" height="255.58153697504798" fill="#4a90e2" />
+<text x="525.0" y="734.0" text-anchor="middle">2020</text>
+<circle cx="147.0" cy="454.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="147.0" y1="454.0" x2="189.0" y2="610.1198262409873" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="189.0" cy="610.1198262409873" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="189.0" y1="610.1198262409873" x2="231.0" y2="665.7108896503252" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="231.0" cy="665.7108896503252" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="231.0" y1="665.7108896503252" x2="273.0" y2="679.0629061477741" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="273.0" cy="679.0629061477741" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="273.0" y1="679.0629061477741" x2="315.0" y2="628.7507636039197" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="315.0" cy="628.7507636039197" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="315.0" y1="628.7507636039197" x2="357.0" y2="627.3978817061695" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="357.0" cy="627.3978817061695" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="357.0" y1="627.3978817061695" x2="399.0" y2="639.0888106354125" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="399.0" cy="639.0888106354125" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="399.0" y1="639.0888106354125" x2="441.0" y2="640.9499384476226" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="441.0" cy="640.9499384476226" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="441.0" y1="640.9499384476226" x2="483.0" y2="634.1400055678944" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="483.0" cy="634.1400055678944" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="483.0" y1="634.1400055678944" x2="525.0" y2="716.0" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="525.0" cy="716.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<text x="84.0" y="446.0" text-anchor="start">最大值: 32228</text>
+<text x="552.0" y="466.0" text-anchor="start" fill="#d0021b">14.1%</text>
+<text x="552.0" y="682.2338644907419" text-anchor="start" fill="#d0021b">0.0%</text>
+<text x="552.0" y="716.0" text-anchor="start" fill="#d0021b">-2.4%</text>
+<rect x="630.0" y="430.0" width="510.0" height="310.0" fill="#f9f9f9" stroke="#ccc"/>
+<text class="title" x="885.0" y="454.0" text-anchor="middle">碳排放量(万tCO2)</text>
+<text x="646.0" y="478.0" text-anchor="start" fill="#666">柱状：指标值，折线：同比(%)</text>
+<line x1="654.0" y1="716.0" x2="1116.0" y2="716.0" stroke="#444" stroke-width="1" />
+<line x1="654.0" y1="454.0" x2="654.0" y2="716.0" stroke="#444" stroke-width="1" />
+<line x1="1116.0" y1="716.0" x2="1116.0" y2="454.0" stroke="#d0021b" stroke-width="1" stroke-dasharray="4 2" />
+<line x1="654.0" y1="675.800131924202" x2="1116.0" y2="675.800131924202" stroke="#d0021b" stroke-width="1" stroke-dasharray="2 2" opacity="0.6" />
+<rect x="662.4" y="516.71437590617" width="25.2" height="199.28562409383008" fill="#4a90e2" />
+<text x="675.0" y="734.0" text-anchor="middle">2010</text>
+<rect x="704.4" y="485.480412670649" width="25.2" height="230.51958732935103" fill="#4a90e2" />
+<text x="717.0" y="734.0" text-anchor="middle">2011</text>
+<rect x="746.4" y="477.3149740867665" width="25.2" height="238.68502591323355" fill="#4a90e2" />
+<text x="759.0" y="734.0" text-anchor="middle">2012</text>
+<rect x="788.4" y="479.9783754819824" width="25.2" height="236.02162451801755" fill="#4a90e2" />
+<text x="801.0" y="734.0" text-anchor="middle">2013</text>
+<rect x="830.4" y="486.68286547214853" width="25.2" height="229.31713452785147" fill="#4a90e2" />
+<text x="843.0" y="734.0" text-anchor="middle">2014</text>
+<rect x="872.4" y="482.3635978373951" width="25.2" height="233.63640216260492" fill="#4a90e2" />
+<text x="885.0" y="734.0" text-anchor="middle">2015</text>
+<rect x="914.4" y="473.6959020478703" width="25.2" height="242.30409795212975" fill="#4a90e2" />
+<text x="927.0" y="734.0" text-anchor="middle">2016</text>
+<rect x="956.4" y="466.88769217575054" width="25.2" height="249.11230782424948" fill="#4a90e2" />
+<text x="969.0" y="734.0" text-anchor="middle">2017</text>
+<rect x="998.4" y="463.1733825948687" width="25.2" height="252.8266174051313" fill="#4a90e2" />
+<text x="1011.0" y="734.0" text-anchor="middle">2018</text>
+<rect x="1040.4" y="454.0" width="25.2" height="262.0" fill="#4a90e2" />
+<text x="1053.0" y="734.0" text-anchor="middle">2019</text>
+<rect x="1082.4" y="459.1731007942202" width="25.2" height="256.8268992057798" fill="#4a90e2" />
+<text x="1095.0" y="734.0" text-anchor="middle">2020</text>
+<circle cx="717.0" cy="454.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="717.0" y1="454.0" x2="759.0" y2="625.6719031486339" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="759.0" cy="625.6719031486339" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="759.0" y1="625.6719031486339" x2="801.0" y2="691.5915861308662" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="801.0" cy="691.5915861308662" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="801.0" y1="691.5915861308662" x2="843.0" y2="716.0" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="843.0" cy="716.0" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="843.0" y1="716.0" x2="885.0" y2="649.1447883256166" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="885.0" cy="649.1447883256166" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="885.0" y1="649.1447883256166" x2="927.0" y2="623.2983761902349" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="927.0" cy="623.2983761902349" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="927.0" y1="623.2983761902349" x2="969.0" y2="636.0367923328968" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="969.0" cy="636.0367923328968" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="969.0" y1="636.0367923328968" x2="1011.0" y2="654.6995909512813" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="1011.0" cy="654.6995909512813" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="1011.0" y1="654.6995909512813" x2="1053.0" y2="624.452858263634" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="1053.0" cy="624.452858263634" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<line x1="1053.0" y1="624.452858263634" x2="1095.0" y2="703.7423144656059" stroke="#d0021b" stroke-width="2" opacity="0.85" />
+<circle cx="1095.0" cy="703.7423144656059" r="4" fill="#fff" stroke="#d0021b" stroke-width="2" />
+<text x="654.0" y="446.0" text-anchor="start">最大值: 74096</text>
+<text x="1122.0" y="466.0" text-anchor="start" fill="#d0021b">15.7%</text>
+<text x="1122.0" y="680.800131924202" text-anchor="start" fill="#d0021b">0.0%</text>
+<text x="1122.0" y="716.0" text-anchor="start" fill="#d0021b">-2.8%</text>
+</svg>
