@@ -1,0 +1,100 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='540' viewBox='0 0 900 540'>
+<style>text{font-family:'SimHei, Noto Sans CJK, sans-serif';font-size:16px;}</style>
+<rect x='0' y='0' width='900' height='540' fill='white' stroke='none'/>
+<text x='450.0' y='40.0' text-anchor='middle' font-size='22'>宏观驱动指标指数（2010=100）</text>
+<text x='45.0' y='270.0' transform='rotate(-90 45.0 270.0)' text-anchor='middle'>指数（2010=100）</text>
+<line x1='90' y1='80' x2='90' y2='460' stroke='black' stroke-width='1'/>
+<line x1='90' y1='460' x2='860' y2='460' stroke='black' stroke-width='1'/>
+<line x1='90.0' y1='460' x2='90.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='90.0' y='488' text-anchor='middle'>2010</text>
+<line x1='167.0' y1='460' x2='167.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='167.0' y='488' text-anchor='middle'>2011</text>
+<line x1='244.0' y1='460' x2='244.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='244.0' y='488' text-anchor='middle'>2012</text>
+<line x1='321.0' y1='460' x2='321.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='321.0' y='488' text-anchor='middle'>2013</text>
+<line x1='398.0' y1='460' x2='398.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='398.0' y='488' text-anchor='middle'>2014</text>
+<line x1='475.0' y1='460' x2='475.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='475.0' y='488' text-anchor='middle'>2015</text>
+<line x1='552.0' y1='460' x2='552.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='552.0' y='488' text-anchor='middle'>2016</text>
+<line x1='629.0' y1='460' x2='629.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='629.0' y='488' text-anchor='middle'>2017</text>
+<line x1='706.0' y1='460' x2='706.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='706.0' y='488' text-anchor='middle'>2018</text>
+<line x1='783.0' y1='460' x2='783.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='783.0' y='488' text-anchor='middle'>2019</text>
+<line x1='860.0' y1='460' x2='860.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='860.0' y='488' text-anchor='middle'>2020</text>
+<line x1='90' y1='460.0' x2='860' y2='460.0' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='466.0' text-anchor='end'>88.6</text>
+<line x1='90' y1='396.6666666666667' x2='860' y2='396.6666666666667' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='402.6666666666667' text-anchor='end'>111.4</text>
+<line x1='90' y1='333.33333333333337' x2='860' y2='333.33333333333337' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='339.33333333333337' text-anchor='end'>134.3</text>
+<line x1='90' y1='270.0' x2='860' y2='270.0' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='276.0' text-anchor='end'>157.1</text>
+<line x1='90' y1='206.66666666666669' x2='860' y2='206.66666666666669' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='212.66666666666669' text-anchor='end'>180.0</text>
+<line x1='90' y1='143.33333333333331' x2='860' y2='143.33333333333331' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='149.33333333333331' text-anchor='end'>202.9</text>
+<line x1='90' y1='80.0' x2='860' y2='80.0' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='86.0' text-anchor='end'>225.7</text>
+<polyline fill='none' stroke='#4472c4' stroke-width='2' points=90.0,428.33333333333337 167.0,422.923640784998 244.0,419.5148127177683 321.0,416.95766354897165 398.0,413.83648395632645 475.0,412.63871148320976 552.0,410.3023157949082 629.0,408.8225281098673 706.0,408.02366104887324 783.0,407.21740033063776 860.0,406.9297518560533 />
+<circle cx='90.0' cy='428.33333333333337' r='3.5' fill='#4472c4' />
+<circle cx='167.0' cy='422.923640784998' r='3.5' fill='#4472c4' />
+<circle cx='244.0' cy='419.5148127177683' r='3.5' fill='#4472c4' />
+<circle cx='321.0' cy='416.95766354897165' r='3.5' fill='#4472c4' />
+<circle cx='398.0' cy='413.83648395632645' r='3.5' fill='#4472c4' />
+<circle cx='475.0' cy='412.63871148320976' r='3.5' fill='#4472c4' />
+<circle cx='552.0' cy='410.3023157949082' r='3.5' fill='#4472c4' />
+<circle cx='629.0' cy='408.8225281098673' r='3.5' fill='#4472c4' />
+<circle cx='706.0' cy='408.02366104887324' r='3.5' fill='#4472c4' />
+<circle cx='783.0' cy='407.21740033063776' r='3.5' fill='#4472c4' />
+<circle cx='860.0' cy='406.9297518560533' r='3.5' fill='#4472c4' />
+<polyline fill='none' stroke='#ed7d31' stroke-width='2' points=90.0,428.33333333333337 167.0,397.7455874630778 244.0,366.2287836179547 321.0,333.29024055295076 398.0,301.2929402687107 475.0,266.5289526016502 552.0,232.2929497875253 629.0,198.2391310144107 706.0,164.2588510326977 783.0,132.60231063288836 860.0,111.66666666666663 />
+<circle cx='90.0' cy='428.33333333333337' r='3.5' fill='#ed7d31' />
+<circle cx='167.0' cy='397.7455874630778' r='3.5' fill='#ed7d31' />
+<circle cx='244.0' cy='366.2287836179547' r='3.5' fill='#ed7d31' />
+<circle cx='321.0' cy='333.29024055295076' r='3.5' fill='#ed7d31' />
+<circle cx='398.0' cy='301.2929402687107' r='3.5' fill='#ed7d31' />
+<circle cx='475.0' cy='266.5289526016502' r='3.5' fill='#ed7d31' />
+<circle cx='552.0' cy='232.2929497875253' r='3.5' fill='#ed7d31' />
+<circle cx='629.0' cy='198.2391310144107' r='3.5' fill='#ed7d31' />
+<circle cx='706.0' cy='164.2588510326977' r='3.5' fill='#ed7d31' />
+<circle cx='783.0' cy='132.60231063288836' r='3.5' fill='#ed7d31' />
+<circle cx='860.0' cy='111.66666666666663' r='3.5' fill='#ed7d31' />
+<polyline fill='none' stroke='#a5a5a5' stroke-width='2' points=90.0,428.33333333333337 167.0,389.2478354188183 244.0,375.8392933804686 321.0,373.4395086898486 398.0,373.82320027182357 475.0,363.66429772733716 552.0,352.90198027365113 629.0,344.4049438690795 706.0,336.1276532751691 783.0,326.0714290243662 860.0,335.36410855731515 />
+<circle cx='90.0' cy='428.33333333333337' r='3.5' fill='#a5a5a5' />
+<circle cx='167.0' cy='389.2478354188183' r='3.5' fill='#a5a5a5' />
+<circle cx='244.0' cy='375.8392933804686' r='3.5' fill='#a5a5a5' />
+<circle cx='321.0' cy='373.4395086898486' r='3.5' fill='#a5a5a5' />
+<circle cx='398.0' cy='373.82320027182357' r='3.5' fill='#a5a5a5' />
+<circle cx='475.0' cy='363.66429772733716' r='3.5' fill='#a5a5a5' />
+<circle cx='552.0' cy='352.90198027365113' r='3.5' fill='#a5a5a5' />
+<circle cx='629.0' cy='344.4049438690795' r='3.5' fill='#a5a5a5' />
+<circle cx='706.0' cy='336.1276532751691' r='3.5' fill='#a5a5a5' />
+<circle cx='783.0' cy='326.0714290243662' r='3.5' fill='#a5a5a5' />
+<circle cx='860.0' cy='335.36410855731515' r='3.5' fill='#a5a5a5' />
+<polyline fill='none' stroke='#ffc000' stroke-width='2' points=90.0,428.33333333333337 167.0,384.90937071001497 244.0,373.5571226076584 321.0,377.2599970000194 398.0,386.58111710719453 475.0,380.5761245637462 552.0,368.52559818140816 629.0,359.0602783694665 706.0,353.89634706829185 783.0,341.14277430119705 860.0,348.33483423419364 />
+<circle cx='90.0' cy='428.33333333333337' r='3.5' fill='#ffc000' />
+<circle cx='167.0' cy='384.90937071001497' r='3.5' fill='#ffc000' />
+<circle cx='244.0' cy='373.5571226076584' r='3.5' fill='#ffc000' />
+<circle cx='321.0' cy='377.2599970000194' r='3.5' fill='#ffc000' />
+<circle cx='398.0' cy='386.58111710719453' r='3.5' fill='#ffc000' />
+<circle cx='475.0' cy='380.5761245637462' r='3.5' fill='#ffc000' />
+<circle cx='552.0' cy='368.52559818140816' r='3.5' fill='#ffc000' />
+<circle cx='629.0' cy='359.0602783694665' r='3.5' fill='#ffc000' />
+<circle cx='706.0' cy='353.89634706829185' r='3.5' fill='#ffc000' />
+<circle cx='783.0' cy='341.14277430119705' r='3.5' fill='#ffc000' />
+<circle cx='860.0' cy='348.33483423419364' r='3.5' fill='#ffc000' />
+<rect x='90' y='33' width='20' height='20' fill='#4472c4' />
+<text x='120' y='50'>常住人口指数</text>
+<rect x='270' y='33' width='20' height='20' fill='#ed7d31' />
+<text x='300' y='50'>GDP 指数</text>
+<rect x='450' y='33' width='20' height='20' fill='#a5a5a5' />
+<text x='480' y='50'>能源消费指数</text>
+<rect x='630' y='33' width='20' height='20' fill='#ffc000' />
+<text x='660' y='50'>碳排放指数</text>
+</svg>

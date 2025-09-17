@@ -1,0 +1,87 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='900' height='540' viewBox='0 0 900 540'>
+<style>text{font-family:'SimHei, Noto Sans CJK, sans-serif';font-size:16px;}</style>
+<rect x='0' y='0' width='900' height='540' fill='white' stroke='none'/>
+<text x='450.0' y='40.0' text-anchor='middle' font-size='22'>模型三：能源消费品种结构驱动的碳排放预测</text>
+<text x='45.0' y='270.0' transform='rotate(-90 45.0 270.0)' text-anchor='middle'>碳排放量（万tCO₂）</text>
+<line x1='90' y1='80' x2='90' y2='460' stroke='black' stroke-width='1'/>
+<line x1='90' y1='460' x2='860' y2='460' stroke='black' stroke-width='1'/>
+<line x1='90.0' y1='460' x2='90.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='90.0' y='488' text-anchor='middle'>2010</text>
+<line x1='141.33333333333334' y1='460' x2='141.33333333333334' y2='466' stroke='black' stroke-width='1'/>
+<text x='141.33333333333334' y='488' text-anchor='middle'>2011</text>
+<line x1='192.66666666666669' y1='460' x2='192.66666666666669' y2='466' stroke='black' stroke-width='1'/>
+<text x='192.66666666666669' y='488' text-anchor='middle'>2012</text>
+<line x1='244.0' y1='460' x2='244.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='244.0' y='488' text-anchor='middle'>2013</text>
+<line x1='295.33333333333337' y1='460' x2='295.33333333333337' y2='466' stroke='black' stroke-width='1'/>
+<text x='295.33333333333337' y='488' text-anchor='middle'>2014</text>
+<line x1='346.6666666666667' y1='460' x2='346.6666666666667' y2='466' stroke='black' stroke-width='1'/>
+<text x='346.6666666666667' y='488' text-anchor='middle'>2015</text>
+<line x1='398.0' y1='460' x2='398.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='398.0' y='488' text-anchor='middle'>2016</text>
+<line x1='449.33333333333337' y1='460' x2='449.33333333333337' y2='466' stroke='black' stroke-width='1'/>
+<text x='449.33333333333337' y='488' text-anchor='middle'>2017</text>
+<line x1='500.6666666666667' y1='460' x2='500.6666666666667' y2='466' stroke='black' stroke-width='1'/>
+<text x='500.6666666666667' y='488' text-anchor='middle'>2018</text>
+<line x1='552.0' y1='460' x2='552.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='552.0' y='488' text-anchor='middle'>2019</text>
+<line x1='603.3333333333334' y1='460' x2='603.3333333333334' y2='466' stroke='black' stroke-width='1'/>
+<text x='603.3333333333334' y='488' text-anchor='middle'>2020</text>
+<line x1='654.6666666666667' y1='460' x2='654.6666666666667' y2='466' stroke='black' stroke-width='1'/>
+<text x='654.6666666666667' y='488' text-anchor='middle'>2021</text>
+<line x1='706.0' y1='460' x2='706.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='706.0' y='488' text-anchor='middle'>2022</text>
+<line x1='757.3333333333334' y1='460' x2='757.3333333333334' y2='466' stroke='black' stroke-width='1'/>
+<text x='757.3333333333334' y='488' text-anchor='middle'>2023</text>
+<line x1='808.6666666666667' y1='460' x2='808.6666666666667' y2='466' stroke='black' stroke-width='1'/>
+<text x='808.6666666666667' y='488' text-anchor='middle'>2024</text>
+<line x1='860.0' y1='460' x2='860.0' y2='466' stroke='black' stroke-width='1'/>
+<text x='860.0' y='488' text-anchor='middle'>2025</text>
+<line x1='90' y1='460.0' x2='860' y2='460.0' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='466.0' text-anchor='end'>53959.7</text>
+<line x1='90' y1='396.6666666666667' x2='860' y2='396.6666666666667' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='402.6666666666667' text-anchor='end'>58760.4</text>
+<line x1='90' y1='333.33333333333337' x2='860' y2='333.33333333333337' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='339.33333333333337' text-anchor='end'>63561.0</text>
+<line x1='90' y1='270.0' x2='860' y2='270.0' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='276.0' text-anchor='end'>68361.7</text>
+<line x1='90' y1='206.66666666666669' x2='860' y2='206.66666666666669' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='212.66666666666669' text-anchor='end'>73162.3</text>
+<line x1='90' y1='143.33333333333331' x2='860' y2='143.33333333333331' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='149.33333333333331' text-anchor='end'>77963.0</text>
+<line x1='90' y1='80.0' x2='860' y2='80.0' stroke='#dddddd' stroke-width='1'/>
+<text x='80' y='86.0' text-anchor='end'>82763.6</text>
+<polyline fill='none' stroke='#4472c4' stroke-width='2' points=90.0,428.33325887642155 141.33333333333334,311.7987907373244 192.66666666666669,281.3333952535694 244.0,291.27059287053544 295.33333333333337,316.285163364086 346.6666666666667,300.1698995798864 398.0,267.8305735965913 449.33333333333337,242.4290223927231 500.6666666666667,228.5708677855691 552.0,194.34481540571187 603.3333333333334,213.64574577880023 />
+<circle cx='90.0' cy='428.33325887642155' r='3.5' fill='#4472c4' />
+<circle cx='141.33333333333334' cy='311.7987907373244' r='3.5' fill='#4472c4' />
+<circle cx='192.66666666666669' cy='281.3333952535694' r='3.5' fill='#4472c4' />
+<circle cx='244.0' cy='291.27059287053544' r='3.5' fill='#4472c4' />
+<circle cx='295.33333333333337' cy='316.285163364086' r='3.5' fill='#4472c4' />
+<circle cx='346.6666666666667' cy='300.1698995798864' r='3.5' fill='#4472c4' />
+<circle cx='398.0' cy='267.8305735965913' r='3.5' fill='#4472c4' />
+<circle cx='449.33333333333337' cy='242.4290223927231' r='3.5' fill='#4472c4' />
+<circle cx='500.6666666666667' cy='228.5708677855691' r='3.5' fill='#4472c4' />
+<circle cx='552.0' cy='194.34481540571187' r='3.5' fill='#4472c4' />
+<circle cx='603.3333333333334' cy='213.64574577880023' r='3.5' fill='#4472c4' />
+<polyline fill='none' stroke='#ed7d31' stroke-width='2' points=90.0,428.3333333333333 141.33333333333334,311.7985804254717 192.66666666666669,281.33358863199976 244.0,291.27057710953784 295.33333333333337,316.2852297722376 346.6666666666667,300.1697188656424 398.0,267.8304270173651 449.33333333333337,242.4294723455178 500.6666666666667,228.5705155510315 552.0,194.3449853589982 603.3333333333334,213.64569723008813 654.6666666666667,178.85498638695577 706.0,162.05790645689189 757.3333333333334,145.26082652681646 808.6666666666667,128.46374659675428 860.0,111.66666666666657 />
+<circle cx='90.0' cy='428.3333333333333' r='3.5' fill='#ed7d31' />
+<circle cx='141.33333333333334' cy='311.7985804254717' r='3.5' fill='#ed7d31' />
+<circle cx='192.66666666666669' cy='281.33358863199976' r='3.5' fill='#ed7d31' />
+<circle cx='244.0' cy='291.27057710953784' r='3.5' fill='#ed7d31' />
+<circle cx='295.33333333333337' cy='316.2852297722376' r='3.5' fill='#ed7d31' />
+<circle cx='346.6666666666667' cy='300.1697188656424' r='3.5' fill='#ed7d31' />
+<circle cx='398.0' cy='267.8304270173651' r='3.5' fill='#ed7d31' />
+<circle cx='449.33333333333337' cy='242.4294723455178' r='3.5' fill='#ed7d31' />
+<circle cx='500.6666666666667' cy='228.5705155510315' r='3.5' fill='#ed7d31' />
+<circle cx='552.0' cy='194.3449853589982' r='3.5' fill='#ed7d31' />
+<circle cx='603.3333333333334' cy='213.64569723008813' r='3.5' fill='#ed7d31' />
+<circle cx='654.6666666666667' cy='178.85498638695577' r='3.5' fill='#ed7d31' />
+<circle cx='706.0' cy='162.05790645689189' r='3.5' fill='#ed7d31' />
+<circle cx='757.3333333333334' cy='145.26082652681646' r='3.5' fill='#ed7d31' />
+<circle cx='808.6666666666667' cy='128.46374659675428' r='3.5' fill='#ed7d31' />
+<circle cx='860.0' cy='111.66666666666657' r='3.5' fill='#ed7d31' />
+<rect x='90' y='33' width='20' height='20' fill='#4472c4' />
+<text x='120' y='50'>实际碳排放</text>
+<rect x='270' y='33' width='20' height='20' fill='#ed7d31' />
+<text x='300' y='50'>模型拟合及预测</text>
+</svg>
