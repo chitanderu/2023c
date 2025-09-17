@@ -1,0 +1,68 @@
+{
+  "model_info": {
+    "model_type": "ARIMA + Multi-regression",
+    "forecast_period": "2021-2060",
+    "base_period": "2010-2020",
+    "key_milestones": [
+      "2025",
+      "2030",
+      "2035",
+      "2050",
+      "2060"
+    ]
+  },
+  "gdp_forecast": {
+    "model": "ARIMA(1,2,2)",
+    "annual_growth_rates": {
+      "2021-2025": 0.072,
+      "2026-2030": 0.058,
+      "2031-2035": 0.038,
+      "2036-2050": 0.021,
+      "2051-2060": 0.01
+    }
+  },
+  "population_forecast": {
+    "model": "ARIMA(3,2,0)",
+    "peak_year": 2055,
+    "peak_value": 9120
+  },
+  "energy_forecast": {
+    "model": "Regression on GDP and Population",
+    "r_squared": 0.94,
+    "peak_year": 2050,
+    "peak_value": 38500
+  },
+  "carbon_forecast": {
+    "model": "Regression + Policy Adjustment",
+    "r_squared": 0.89,
+    "peak_year": 2030,
+    "peak_value": 71500,
+    "policy_factors": {
+      "2021-2030": 0.005,
+      "2031-2050": 0.02,
+      "2051-2060": 0.035
+    }
+  },
+  "sectoral_distribution_2030": {
+    "industry": {
+      "share": 0.7,
+      "emission_factor": 2.01
+    },
+    "building": {
+      "share": 0.14,
+      "emission_factor": 1.86
+    },
+    "transport": {
+      "share": 0.09,
+      "emission_factor": 2.2
+    },
+    "residential": {
+      "share": 0.05,
+      "emission_factor": 1.9
+    },
+    "agriculture": {
+      "share": 0.02,
+      "emission_factor": 1.84
+    }
+  }
+}
